@@ -1,0 +1,2 @@
+global.multiplayer = 0
+

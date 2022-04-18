@@ -1,0 +1,82 @@
+Font fnt_16 has been converted to font family Microsoft PhagsPa (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_16\fnt_16.gms1.png
+Font fnt_c_16 has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_c_16\fnt_c_16.gms1.png
+Font fnt_16b has been converted to font family Microsoft PhagsPa (Bold)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_16b\fnt_16b.gms1.png
+Font fnt_c_16b has been converted to font family Arial Black (Black)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_c_16b\fnt_c_16b.gms1.png
+Font fnt_24 has been converted to font family Microsoft PhagsPa (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_24\fnt_24.gms1.png
+Font fnt_22 has been converted to font family Microsoft PhagsPa (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_22\fnt_22.gms1.png
+Font fnt_32 has been converted to font family Microsoft PhagsPa (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_32\fnt_32.gms1.png
+Font fnt_28 has been converted to font family Microsoft PhagsPa (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_28\fnt_28.gms1.png
+Font fnt_18 has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_18\fnt_18.gms1.png
+Font fnt_17 has been converted to font family Arial (Regular)
+GameMaker Studio 1 font texture has been backed up at ${project_dir}\fonts\fnt_17\fnt_17.gms1.png
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted builtin - line 390: background_index[0] = bkh -> __background_set( e__BG.Index, 0, bkh )
+Converted description /// @description Movement and Collision
+
+Converting GML script: ${project_dir}\objects\obj_player1\Step_0.gml
+Converted builtin - line 479: background_index[0] = bkh -> __background_set( e__BG.Index, 0, bkh )
+Converted description /// @description Movement and Collision
+
+Converting GML script: ${project_dir}\objects\obj_player2\Step_0.gml
+Converted builtin - line 478: background_index[0] = bkh -> __background_set( e__BG.Index, 0, bkh )
+Converted description /// @description Movement and Collision
+
+Converting GML script: ${project_dir}\objects\obj_finish\Draw_0.gml
+Converted description /// @description Tutorial
+
+Converting GML script: ${project_dir}\objects\menu_main\Draw_0.gml
+Converted description /// @description Button 1
+
+Converting GML script: ${project_dir}\objects\menu_multi\Draw_0.gml
+Converted description /// @description Tutorial
+
+Converting GML script: ${project_dir}\objects\menu_extra\Draw_0.gml
+Converted description /// @description Credits
+
+Converting GML script: ${project_dir}\objects\menu_credits\Draw_0.gml
+Converted description /// @description Credits
+
+Converting GML script: ${project_dir}\objects\menu_play1\Draw_0.gml
+Converted description /// @description Tutorial
+
+Converting GML script: ${project_dir}\objects\obj_purple\Step_0.gml
+Converted description /// @description Multiplayer Collisions
+
+Converting GML script: ${project_dir}\objects\obj_but_red\Step_0.gml
+Converted description /// @description Singleplayer
+
+Converting GML script: ${project_dir}\objects\obj_touch_red\Step_0.gml
+Converted description /// @description Singleplayer
+
+Converting GML script: ${project_dir}\objects\obj_touch_blue\Step_0.gml
+Converted description /// @description Singleplayer
+
+Missing audiogroup for sound: 'snd_red' - setting to default audio group
+Missing audiogroup for sound: 'snd_orange' - setting to default audio group
+Missing audiogroup for sound: 'snd_yellow' - setting to default audio group
+Missing audiogroup for sound: 'snd_blue' - setting to default audio group
+Missing audiogroup for sound: 'snd_lgreen' - setting to default audio group
+Missing audiogroup for sound: 'snd_select' - setting to default audio group
+Missing audiogroup for sound: 'snd_purple' - setting to default audio group
+Missing audiogroup for sound: 'snd_turq' - setting to default audio group
+Missing audiogroup for sound: 'snd_pop' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'background/__background_set.gml'
+Added compatibility script 'background/__background_set_internal.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script '__global_object_depths.gml'

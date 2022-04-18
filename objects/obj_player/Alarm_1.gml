@@ -1,0 +1,2 @@
+global.corrosive = !global.corrosive
+

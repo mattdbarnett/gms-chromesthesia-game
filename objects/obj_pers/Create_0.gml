@@ -1,0 +1,2 @@
+global.custom = 0
+
